@@ -121,7 +121,7 @@ GEM
       actionpack (>= 6.0.0)
       activesupport (>= 6.0.0)
       railties (>= 6.0.0)
-    inertia_rails (3.6.1)
+    inertia_rails (3.7.0)
       railties (>= 6)
     io-console (0.8.0)
     irb (1.15.1)
@@ -378,7 +378,7 @@ DEPENDENCIES
   debug
   dockerfile-rails (>= 1.6)
   importmap-rails
-  inertia_rails (~> 3.6)
+  inertia_rails (~> 3.7)
   jbuilder
   kamal
   propshaft
